@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">passionate about programming and new technologies, then I enjoy a good cup of coffee</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proaprendiz&label=Profile%20views&color=0e75b6&style=flat" alt="proaprendiz" /> </p>
+
 - 🔭 I’m currently working on [TECNM](https://www.tijuana.tecnm.mx/)
 
 - 🌱 I’m currently learning **.NET**
